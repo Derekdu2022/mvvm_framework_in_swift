@@ -16,6 +16,7 @@ class LoginView: UIView {
     
     var viewModel: LoginViewModel?
     
+    
     var label: UILabel = UILabel()
     var loginButton: UIButton = UIButton(type: .custom)
     

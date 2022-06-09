@@ -33,6 +33,7 @@
 		65B50F5F2850344F00D5D651 /* LoginResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B50F5E2850344F00D5D651 /* LoginResult.swift */; };
 		65B50F62285043A500D5D651 /* LoginRequestBody.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B50F61285043A500D5D651 /* LoginRequestBody.swift */; };
 		65B50F642850762B00D5D651 /* Convertable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B50F632850762B00D5D651 /* Convertable.swift */; };
+		65B50F662851D03B00D5D651 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 65B50F652851D03B00D5D651 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		65B50F5E2850344F00D5D651 /* LoginResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResult.swift; sourceTree = "<group>"; };
 		65B50F61285043A500D5D651 /* LoginRequestBody.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRequestBody.swift; sourceTree = "<group>"; };
 		65B50F632850762B00D5D651 /* Convertable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Convertable.swift; sourceTree = "<group>"; };
+		65B50F652851D03B00D5D651 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 		657CFE93284841260091D0B1 /* framework_mvvm */ = {
 			isa = PBXGroup;
 			children = (
+				65B50F652851D03B00D5D651 /* README.md */,
 				657CFE94284841260091D0B1 /* AppDelegate.swift */,
 				657CFEB4284898370091D0B1 /* fountation */,
 				657CFEA82848972D0091D0B1 /* login */,
@@ -283,6 +286,7 @@
 			files = (
 				657CFEA1284841270091D0B1 /* LaunchScreen.storyboard in Resources */,
 				657CFE9E284841270091D0B1 /* Assets.xcassets in Resources */,
+				65B50F662851D03B00D5D651 /* README.md in Resources */,
 				657CFE9C284841260091D0B1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
